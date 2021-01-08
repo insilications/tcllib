@@ -18,3 +18,5 @@ zlib-staticdev
 tk
 tk-dev
 tk-staticdev
+critcl
+critcl-dev

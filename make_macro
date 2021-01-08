@@ -1,0 +1,2 @@
+make -j16 all
+make -j16 critcl
