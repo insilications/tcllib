@@ -1,0 +1,20 @@
+# This file contains additional build requirements that did not get
+# picked up automatically. One name per line, no whitespace.
+buildreq-configure
+gcc-dev
+glibc-dev
+glibc-staticdev
+libstdc++
+libstdc++-dev
+python3-dev
+python3-staticdev
+tcl
+tcl-dev
+tcl-staticdev
+xz-dev
+xz-staticdev
+zlib-dev
+zlib-staticdev
+tk
+tk-dev
+tk-staticdev
